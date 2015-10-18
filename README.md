@@ -1,0 +1,2 @@
+# Ducks
+Strategy pattern demo
